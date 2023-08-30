@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arunsankar
-- 💡 I’m interested in IoT,AI
+- 💡 API Developement, IoT, AI, AWS, Azure, Docker, Unix
 - 📚 Full Stack Developer
 - 📫 Reach me - arunsankar172000@gmail.com
 - 🔗 LinkedIn - [linkedin.com/in/arunsankar172](https://www.linkedin.com/in/arunsankar172 "Arunsankar's LinkedIn Profile")
