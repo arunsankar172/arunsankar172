@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arunsankar
-- 💡 API Developement, IoT, AI, AWS, Azure, Docker, Unix
+- 💡 API Developement, SpringBoot, IoT, AI, AWS, Azure, Docker, Unix, NodeJS, ReactJs, React Native
 - 📚 Full Stack Developer
-- 📫 Reach me - arunsankariot@gmail.com
 
 <!---
 arunsankar172/arunsankar172 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
